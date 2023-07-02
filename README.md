@@ -7,8 +7,8 @@ Android Developer
 I've been learning Java and Kotlin for about five years. I always try to keep my knowledge updated and learn new things and languages. I'm interested in the latest technologies in the world and following the news related to programming and technology. Interested in teamwork and sharing knowledge with team members.
 
 * ✉️  You can contact me at [pmf.sajjad@gmail.com](mailto:pmf.sajjad@gmail.com)
-* 🚀  I'm currently working on [Andatech]([http://arinateam.ir](http://andatech.com.au/))
-* 🧠  I'm learning ReactJS
+* 🚀  I'm currently working for [Andatech]([http://arinateam.ir](http://andatech.com.au/))
+* 🧠  I'm learning KMM (Kotlin Multiplatform)
 * 🤝  I'm open to collaborating on Android Libraries
 
 ### Skills
